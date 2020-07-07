@@ -10,12 +10,10 @@
 * 2020.05.01 ~ 2020.11.30
 
 
-## Installation
+## 공개SW 라이선스
 
-Sample:
+[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
-* From the Nuxeo Marketplace: install [the Sample Nuxeo Package](https://connect.nuxeo.com/nuxeo/site/marketplace/package/nuxeo-sample).
-* From the command line: `nuxeoctl mp-install nuxeo-sample`
 
 ## Usage
 
