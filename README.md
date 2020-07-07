@@ -4,24 +4,30 @@
 
 * 개방형OS를 위한 커널형 문서 보안 기술(샘플)
 
-
 ## 총 수행기간
 
 * 2020.05.01 ~ 2020.11.30
 
-
 ## 공개SW 라이선스
 
-[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+* [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
+## 공개범위
 
-## Usage
+* ~~~~~   ~~~~~~   ~~~~
 
-### Screenshots
+### 개방형OS
 
-### Features
+* 
 
-## Code
+### 개발목표
+
+*
+
+## 개발내용
+
+*
+*
 
 [![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=/nuxeo/addons_nuxeo-sample-project-master)](https://qa.nuxeo.org/jenkins/job/nuxeo/job/addons_nuxeo-sample-project-master/)
 
