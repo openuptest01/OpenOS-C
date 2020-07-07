@@ -1,32 +1,14 @@
-# OpenOS-Pro
 # Title / Repository Name
 
-## About / Synopsis
+## 과제명
 
-* What is it, what does it do / Abstract
+* 개방형OS를 위한 커널형 문서 보안 기술(샘플)
 
 
-## Table of contents
+## 총 수행기간
 
-Use for instance <https://github.com/ekalinin/github-markdown-toc>:
+* 2020.05.01 ~ 2020.11.30
 
-> * [Title / Repository Name](#title--repository-name)
->   * [About / Synopsis](#about--synopsis)
->   * [Table of contents](#table-of-contents)
->   * [Installation](#installation)
->   * [Usage](#usage)
->     * [Screenshots](#screenshots)
->     * [Features](#features)
->   * [Code](#code)
->     * [Content](#content)
->     * [Requirements](#requirements)
->     * [Limitations](#limitations)
->     * [Build](#build)
->     * [Deploy (how to install build product)](#deploy-how-to-install-build-product)
->   * [Resources (Documentation and other links)](#resources-documentation-and-other-links)
->   * [Contributing / Reporting issues](#contributing--reporting-issues)
->   * [License](#license)
->   * [About Nuxeo](#about-nuxeo)
 
 ## Installation
 
